@@ -1,0 +1,5 @@
+# next.js
+/.next/
+
+# node modeles
+/.node_modules/
