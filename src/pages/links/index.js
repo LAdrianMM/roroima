@@ -74,7 +74,7 @@ const LinksPage = () => {
 				<meta name="description" content="Roroima ofrece un servico de transporte ejecutivo de cálidad." />
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
-			<main className="bg-slate-200 min-h-screen flex items-center">
+			<main className="bg-slate-200 min-h-screen flex items-center py-14">
 				<div className="max-w-2xl mx-auto w-full">
 					<div className="text-center mb-6">
 						<motion.div
@@ -113,7 +113,7 @@ const LinksPage = () => {
 							))}
 						</motion.ul>
 					</div>
-					<motion.div
+					{/* <motion.div
 						initial={{ opacity: 0, scale: 0.9 }}
 						animate={{ opacity: 1, scale: 1 }}
 						transition={{ delay: 1, duration: 1 }}
@@ -123,7 +123,7 @@ const LinksPage = () => {
 						<a href="https://facelad.com" target="_blank">
 							<Image src={logoFacelad} alt="Logo Facelad" width={110} height={28} />
 						</a>
-					</motion.div>
+					</motion.div> */}
 				</div>
 			</main>
 		</>
