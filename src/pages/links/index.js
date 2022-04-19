@@ -105,7 +105,7 @@ const LinksPage = () => {
 									<a
 										href={path}
 										target="_blank"
-										className="bg-[#58A859] text-xl w-full block py-3 my-3 rounded-2xl hover:opacity-90 transition-opacity ease-in-out duration-150"
+										className="bg-[#4AA758] text-xl w-full block py-3 my-3 rounded-2xl hover:opacity-90 transition-opacity ease-in-out duration-150"
 									>
 										{title}
 									</a>
