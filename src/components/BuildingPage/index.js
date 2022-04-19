@@ -3,15 +3,13 @@ import { useRouter } from 'next/router'
 import React, { useEffect } from 'react'
 
 const BuildingPage = () => {
-	const router = useRouter()
+  const router = useRouter()
 
-	useEffect(() => {
-		router.push('/links')
-	}, [])
+  useEffect(() => {
+    router.push('/links')
+  }, [])
 
-	return (
-		<div></div>
-	)
+  return <div></div>
 }
 
 export default BuildingPage
