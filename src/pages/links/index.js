@@ -7,18 +7,13 @@ import Head from 'next/head'
 const links = [
 	{
 		icon: '',
-		title: 'Whatsapp N°1',
-		path: 'https://api.whatsapp.com/send?phone=584143830377&text=Hola%2C%20te%20est%C3%A1s%20comunicando%20con%20Anjuber%20Marrero%3B%20en%20qu%C3%A9%20te%20puedo%20ayudar%3F(%40roroima)%F0%9F%A4%9D',
-	},
-	{
-		icon: '',
-		title: 'Whatsapp N°2',
-		path: 'https://api.whatsapp.com/send?phone=584242362101&text=Hola%2C%20te%20est%C3%A1s%20comunicando%20con%20M%C3%B3nica%20S%C3%A1nchez%3B%20en%20qu%C3%A9%20te%20puedo%20ayudar%3F(%40roroima)%F0%9F%A4%9D',
+		title: 'Whatsapp',
+		path: 'https://api.whatsapp.com/send?phone=584129700897&text=Hola%2C%20te%20est%C3%A1s%20comunicando%20con%20Anjuber%20Marrero%3B%20en%20qu%C3%A9%20te%20puedo%20ayudar%3F(%40roroima)%F0%9F%A4%9D',
 	},
 	{
 		icon: '',
 		title: 'Instagram',
-		path: 'https://www.instagram.com/roroima/',
+		path: 'https://www.instagram.com/roroima.tours/',
 	},
 	{
 		icon: '',
@@ -27,18 +22,8 @@ const links = [
 	},
 	{
 		icon: '',
-		title: 'Twitter',
-		path: 'https://twitter.com/roroimatours?lang=es',
-	},
-	{
-		icon: '',
-		title: 'Vehiculos',
-		path: 'https://drive.google.com/file/d/1zGHJpqw3eG6qrA6UFxjadSbwXStG9BmK/view',
-	},
-	{
-		icon: '',
-		title: 'Servicios',
-		path: 'https://drive.google.com/file/d/19Rcqi6O-RetCfrULOp0OzcIIvjHGrEXi/view',
+		title: 'X / Twitter',
+		path: 'https://x.com/roroimatours?lang=es',
 	},
 ]
 
